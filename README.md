@@ -27,5 +27,5 @@ db_password="myPostgrePassword"
 This is needed to access PostgreSQL.
 
 A Database "movie_data" should have been created in PostgreSQL, and running. After running this script, two tables "movies" and "rating" would be created if not existed, or replaced.
-A
-ll three input files are assumed no file type change, and no column name change after being converted to DataFrame. If a change in those "Key", the script may need to be modified accordingly.
+
+A three input files are assumed no file type change, and no column name change after being converted to DataFrame. If a change in those "Key", the script may need to be modified accordingly.
