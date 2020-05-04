@@ -1,4 +1,6 @@
-# The challenge.py is a Python script to automatically extract movie data from Wikipedia, Kaggle and MovieLens; clean and transform the incoming data and finally load into PostgreSQL.
+# The challenge.py
+
+is a Python script to automatically extract movie data from Wikipedia, Kaggle and MovieLens; clean and transform the incoming data and finally load into PostgreSQL.
 
 The script may be invoked in a command line shell with three full file names as parameters, in the order:
 a Wikipedia movie JSON file,
